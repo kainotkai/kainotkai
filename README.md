@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I'm a Computer Science and Applied Mathematics student at the University of Alberta with a passion for machine learning, full-stack development, and solving real-world problems through code. Currently working as a Machine Learning Research Assistant focusing on wildfire detection using deep learning and satellite imagery.
+I'm a Computer Science and Applied Mathematics student at the University of Alberta with a passion for machine learning, full-stack development, and solving real-world problems through code. Currently working as a Machine Learning Research Assistant focusing on wildfire risk prediction using deep learning and satellite imagery.
 
 - 🔭 I'm currently working on fine-tuning BERT-based LLMs for Alzheimer's detection
 - 🌱 I'm constantly learning about deep learning, NLP, and cloud architecture
@@ -47,8 +47,8 @@ Machine learning project for early Alzheimer's risk assessment through speech an
 - **Team:** Undergraduate AI Society (7 members)
 - **Focus:** NLP model fine-tuning, hyperparameter optimization with Optuna
 
-### Wildfire Detection System
-Deep learning solution for automated wildfire detection using satellite imagery
+### Wildfire Risk Prediction System
+Deep learning solution for automated wildfire risk prediction using satellite imagery
 - **Tech Stack:** PyTorch, Computer Vision, Geospatial Data
 - **Application:** Real-world remote sensing and risk assessment
 
