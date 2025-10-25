@@ -64,7 +64,6 @@ Deep learning solution for automated wildfire detection using satellite imagery
 
 ## 📊 GitHub Stats
 
-![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kainotkai&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kainotkai&layout=compact&theme=radical)
 
