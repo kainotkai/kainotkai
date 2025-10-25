@@ -62,11 +62,6 @@ Deep learning solution for automated wildfire detection using satellite imagery
   - Introduction to Tangible Computing
   - Mentoring students in Python best practices
 
-## 📊 GitHub Stats
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kainotkai&layout=compact&theme=radical)
-
 ## 🤝 Let's Connect!
 
 I'm always interested in collaborating on machine learning projects, open source contributions, or discussing innovative ideas in AI and software engineering.
