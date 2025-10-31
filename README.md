@@ -36,7 +36,7 @@ I'm a Computer Science and Applied Mathematics student at the University of Albe
 
 ## 🚀 Featured Projects
 
-### [Spotify Music Playlist Management System](https://github.com/kainotkai)
+### [Spotify Music Playlist Management System](https://github.com/kainotkai/spotify-playlist-composer)
 Full-stack application with node-based visual interface for complex playlist construction
 - **Tech Stack:** Python, Spotipy, Flask, React, TypeScript
 - **Features:** Object-oriented design, RESTful API, Docker-ready for AWS deployment
