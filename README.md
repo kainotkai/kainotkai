@@ -6,7 +6,7 @@ I'm a Computer Science and Applied Mathematics student at the University of Albe
 
 - 🔭 I'm currently working on fine-tuning BERT-based LLMs for Alzheimer's detection
 - 🌱 I'm constantly learning about deep learning, NLP, and cloud architecture
-- 💼 Machine Learning Research Assistant at UAlberta Faculty of Engineering
+- 💼 Incoming @ AMD
 - 📫 How to reach me: ktan6@ualberta.ca
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kai-tan-559826293/)
 
