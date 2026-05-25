@@ -48,7 +48,7 @@ Deep learning solution for automated wildfire risk prediction using satellite im
 ## 💼 Experience Highlights
 - **ML SWE Intern** @ AMD (May 2026 - Current)
   - Working on AMD Schola - https://gpuopen.com/amd-schola/
-  - Applied Rl in Unreal Engine!
+  - Applied RL in Unreal Engine!
 
 - **Machine Learning Research Assistant** @ UAlberta Engineering (Sept. 2025 - Jan. 2026)
   - Developing deep neural networks for wildfire detection using PyTorch
