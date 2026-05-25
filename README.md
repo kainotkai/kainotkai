@@ -4,8 +4,6 @@
 
 I'm a Computer Science and Applied Mathematics student at the University of Alberta with a passion for machine learning, full-stack development, and solving real-world problems through code. Currently working as a Machine Learning Research Assistant focusing on wildfire risk prediction using deep learning and satellite imagery.
 
-- 🔭 I'm currently working on fine-tuning BERT-based LLMs for Alzheimer's detection
-- 🌱 I'm constantly learning about deep learning, NLP, and cloud architecture
 - 💼 RL @ AMD
 - 📫 How to reach me: ktan6@ualberta.ca
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kai-tan-559826293/)
@@ -36,12 +34,7 @@ I'm a Computer Science and Applied Mathematics student at the University of Albe
 
 ## 🚀 Featured Projects
 
-### [Spotify Music Playlist Management System](https://github.com/kainotkai/spotify-playlist-composer)
-Full-stack application with node-based visual interface for complex playlist construction
-- **Tech Stack:** Python, Spotipy, Flask, React, TypeScript
-- **Features:** Object-oriented design, RESTful API, Docker-ready for AWS deployment
-
-### BERT-based Alzheimer Detection (In Progress)
+### BERT-based Alzheimer Detection 
 Machine learning project for early Alzheimer's risk assessment through speech analysis
 - **Tech Stack:** Python, BERT, Hugging Face, PyTorch, Flask
 - **Team:** Undergraduate AI Society (7 members)
@@ -53,12 +46,15 @@ Deep learning solution for automated wildfire risk prediction using satellite im
 - **Application:** Real-world remote sensing and risk assessment
 
 ## 💼 Experience Highlights
+- **ML SWE Intern** @ AMD (May 2026 - Current)
+  - Working on AMD Schola - https://gpuopen.com/amd-schola/
+  - Applied Rl in Unreal Engine!
 
-- **Machine Learning Research Assistant** @ UAlberta Engineering (Sept 2025 - Present)
+- **Machine Learning Research Assistant** @ UAlberta Engineering (Sept. 2025 - Jan. 2026)
   - Developing deep neural networks for wildfire detection using PyTorch
   - Working with satellite imagery and geospatial data
 
-- **Teaching Assistant** @ UAlberta (Sept 2025 - Present)
+- **Teaching Assistant** @ UAlberta (Sept 2025 - Jan. 2026)
   - Introduction to Tangible Computing
   - Mentoring students in Python best practices
 
